@@ -1,0 +1,8 @@
+1
+00:00:00,000 --> 00:00:04,040
+tap the circle really fast
+
+2
+00:00:06,318 --> 00:00:09,859
+now click the cell
+
